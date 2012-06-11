@@ -25,11 +25,11 @@ Generar la imagen de la empresa, lograr una interfaz moderna y usable
 * CEO, Founders, Developers
 
 ## Experiencia Profesional
-* Al menos un trabajo estatico presentable
-* Al menos un portfolio con 2 sitios web funcionando
+* Mínimo un año de experiencia en desarrollo web
+* Mínimo un portfolio con 2 sitios web funcionando
 
 ## Nivel de Ingles requerido
-* Intermedio
+* Avanzado
 
 ## Nivel academico requerido
 * Graduado Terciario o Universitario en carreras de Diseño
@@ -47,3 +47,5 @@ o
 * Proactivo
 * Capaz de tener un pensamiento critico
 * Trabajo en equipo
+* Elegir el Ninja Purpura
+* Participación profesional y académica en la comunidad de diseño
