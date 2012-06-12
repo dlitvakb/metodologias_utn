@@ -18,8 +18,8 @@ Difundir la marca en la sociedad y maximizar las ganancias de la empresa.
 
 ##Relaciones en el trabajo externas/internas
 ###Externas
-*Usuarios
-*Patrocinadores
+* Usuarios
+* Patrocinadores
 
 ###Internas
 * CEO, Founders, Developers
@@ -28,12 +28,12 @@ Difundir la marca en la sociedad y maximizar las ganancias de la empresa.
 * 2 (dos) años de experiencia comprobable en el área.
 
 ##Nivel de Ingles requerido
-*Avanzado
+* Avanzado
 
 ##Nivel academico requerido
 * Graduado Terciario o Universitario en carreras de publicidad o marketing.
 - o -
-*Estudiante de los últimos años de las carreras de marketing o comunicación social.
+* Estudiante de los últimos años de las carreras de marketing o comunicación social.
 
 ##Competencias Tecnicas
 * Profundo conocimiento del funcionamiento de las redes sociales y las herramientas para publicitar en ellas.
